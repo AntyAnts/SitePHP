@@ -1,0 +1,40 @@
+.auth{
+	margin: 15% auto;
+	width: 25rem;
+
+}
+.auth_email{
+	margin-bottom: 1em;
+}
+.auth_password{
+	margin-bottom: 1em;
+}
+.auth_login{
+	float: right;
+}
+.auth_register{
+	float: right;
+	margin-right: 1em;
+}
+.reg{
+	margin: 15% auto;
+	width: 25rem;
+}
+.form_reg{
+	margin-bottom: 1em;
+}
+.reg_btn{
+	float: right;
+	disable
+}
+.form_reg_pass_view{
+	width: 25px;
+	height: 25px;
+	display: inline;
+	margin-left: 1em;
+	cursor: pointer;
+}
+.form_reg_pass{
+	width: 75%;
+	display: inline;
+}
